@@ -6,10 +6,10 @@ I'm a MERN Stack Developer passionate about building web applications and solvin
 
 🎓 Currently in 8th semester BSCS.
  💻 Skilled in HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, MySQL, C/C++, Java.
- 🌐 I love creating *full-stack web applications and exploring new technologies.
+ 🌐 I love creating full-stack web applications and exploring new technologies.
  📫 Reach me: 
-  [LinkedIn](www.linkedin.com/in/hafsa-riaz-879476247) 
-  [Email](hafsariazturk9@gmail.com)
+  LinkedIn:www.linkedin.com/in/hafsa-riaz-879476247
+  Email:hafsariazturk9@gmail.com
 
 💼 Skills
 
